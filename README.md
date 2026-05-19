@@ -1,5 +1,7 @@
 # human-duration
 
+[![ci](https://github.com/p-vbordei/human-duration/actions/workflows/ci.yml/badge.svg)](https://github.com/p-vbordei/human-duration/actions/workflows/ci.yml)
+
 Parse and format human-friendly durations. Bidirectional, zero dependencies, no Date/Intl baggage.
 
 ```ts
