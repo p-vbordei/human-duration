@@ -2,6 +2,10 @@
 
 [![ci](https://github.com/p-vbordei/human-duration/actions/workflows/ci.yml/badge.svg)](https://github.com/p-vbordei/human-duration/actions/workflows/ci.yml)
 
+[![npm](https://img.shields.io/npm/v/%40p-vbordei%2Fhuman-duration.svg)](https://www.npmjs.com/package/@p-vbordei/human-duration)
+[![downloads](https://img.shields.io/npm/dm/%40p-vbordei%2Fhuman-duration.svg)](https://www.npmjs.com/package/@p-vbordei/human-duration)
+[![bundle](https://img.shields.io/bundlejs/size/%40p-vbordei%2Fhuman-duration)](https://bundlejs.com/?q=%40p-vbordei%2Fhuman-duration)
+
 Parse and format human-friendly durations. Bidirectional, zero dependencies, no Date/Intl baggage.
 
 ```ts
