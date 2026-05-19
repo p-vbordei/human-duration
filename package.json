@@ -1,6 +1,6 @@
 {
   "name": "@p-vbordei/human-duration",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Parse and format human-friendly durations (\"1h30m\" ↔ 5400000ms). Zero dependencies, no Date/Intl baggage.",
   "keywords": [
     "duration",
