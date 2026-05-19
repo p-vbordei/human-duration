@@ -5,7 +5,7 @@
 Parse and format human-friendly durations. Bidirectional, zero dependencies, no Date/Intl baggage.
 
 ```ts
-import { parse, format } from "human-duration";
+import { parse, format } from "@p-vbordei/human-duration";
 
 parse("1h30m")           // 5_400_000
 parse("2 days 5 hours")  // 187_200_000
@@ -21,7 +21,7 @@ format(-90_000)                            // "-1m 30s"
 ## Install
 
 ```sh
-npm install human-duration
+npm install @p-vbordei/human-duration
 ```
 
 ## API
